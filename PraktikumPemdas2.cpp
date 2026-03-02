@@ -15,3 +15,6 @@ float luasLingkaran (int b){
 }
 
 //prosedur luas lingkaran
+void output (){
+    cout << "hasilnya : " << luasLingkaran (phi,r) << endl;
+}
