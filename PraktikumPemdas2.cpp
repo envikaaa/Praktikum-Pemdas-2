@@ -13,3 +13,5 @@ void input(){
 float luasLingkaran (int b){
     return phi*b*b;
 }
+
+//prosedur luas lingkaran
